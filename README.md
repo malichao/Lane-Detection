@@ -26,24 +26,7 @@ The following pictures show the result of step 1. Due to the shade and the diffe
 <img src=doc/wrong_detection.png width="450">  
 <img src=doc/improved_detection.png width="450">  
 
-###Potential shortcomings with my pipeline  
+### Potential shortcomings with my pipeline  
 
 1. Sometimes the dectector doesn't pick up the yellow lane line because its color is too close to the road
 1. Sometimes there is no line drawn because too much line segments are filtered out. This could be improve by fine tuning the parameters
-
-
-
-
-
-
-
-
-
-
-
-
-###3. Suggest possible improvements to your pipeline
-
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
